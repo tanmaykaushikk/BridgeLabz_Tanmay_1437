@@ -13,3 +13,6 @@ _Topics Covered_
 * Weak Map and Weak Set 
 * Destructuring(array,rest,object,mixed,function params,defaults,swapping variables,loops)
 
+**04-12-2024**
+_Topics Covered_
+* Employee Wage Task
