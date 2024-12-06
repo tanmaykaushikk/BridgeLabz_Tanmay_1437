@@ -28,3 +28,16 @@
   - Default Values
   - Swapping Variables
   - Destructuring in Loops
+
+
+---
+
+## 04-DEC-2024
+### Topics Covered
+- Employee Wage Task Completed
+
+---
+
+## 05-DEC-2024
+### Topics Covered 
+- Employee Wage Task Completed with additional Use Cases.
