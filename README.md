@@ -19,5 +19,5 @@ _Topics Covered_
 
 **05-12-24**
 _Topics Covered_
-*Employee Wage Task Completed with addtional use cases
+* Employee Wage Task Completed with addtional use cases
 
