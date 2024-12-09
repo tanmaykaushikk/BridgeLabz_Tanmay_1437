@@ -41,3 +41,10 @@
 ## 05-DEC-2024
 ### Topics Covered 
 - Employee Wage Task Completed with additional Use Cases.
+
+## 06-12-2024
+### Topics Covered
+- Node js
+- NPM
+- OOP
+- Event Loops
