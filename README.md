@@ -21,3 +21,11 @@ _Topics Covered_
 _Topics Covered_
 * Employee Wage Task Completed with addtional use cases
 
+**06-12-24**
+_Topics Covered_
+* Node js
+* NPM
+* OOP
+* Event Loops
+
+
