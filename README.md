@@ -50,3 +50,9 @@
 - NPM
 - OOP
 - Event Loops
+
+---
+
+## 09-12-2024
+### Topics Covered
+- Recap Of Previous Topics
