@@ -48,25 +48,44 @@
 // console.log(reverse("tanmay"));
 
 
-const arr = [5,1,2,4,8,3];
-const ans = arr.sort();
-console.log(ans);
-let sum = 0;
+// const arr = [5,1,2,4,8,3];
+// const ans = arr.sort();
+// console.log(ans);
+// let sum = 0;
 
-// console.log(`minimum element ${ans[0]}`);
-// console.log(`maximum element ${ans[ans.length-1]}`);
+// // console.log(`minimum element ${ans[0]}`);
+// // console.log(`maximum element ${ans[ans.length-1]}`);
 
-for(let i=0;i<arr.length;i++){
-    sum +=arr[i];
-}
-console.log(sum);
-
-
+// for(let i=0;i<arr.length;i++){
+//     sum +=arr[i];
+// }
+// console.log(sum);
 
 
 
+// const arr = [ -1,-2,-3,-4,1,2,3,4];
+// const pos = [];
+// const neg = [];
+
+// for(let i=0;i<arr.length-1;i++){
+//     if(arr[i] >= 0){
+//         pos.push(arr[i]);
+//     }
+// }
+
+// for(let i=0;i<arr.length-1;i++){
+//     if(arr[i]<0){
+//         neg.push(arr[i]);
+//     }
+// }
+
+// console.log(pos);
+// console.log(neg);
 
 
+// const arr = [1,2,3,4,5];
+// const reverse = arr.reverse();
+// console.log(reverse);
 
 
 
