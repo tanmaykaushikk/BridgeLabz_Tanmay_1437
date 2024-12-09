@@ -37,6 +37,34 @@
 
 
 
+// function reverse(str){
+//     let ans = "";
+//     for(let i=str.length -1 ;i>=0;i--){
+//         ans += str[i];
+//     }
+//     return ans;
+// }
+
+// console.log(reverse("tanmay"));
+
+
+const arr = [5,1,2,4,8,3];
+const ans = arr.sort();
+console.log(ans);
+let sum = 0;
+
+// console.log(`minimum element ${ans[0]}`);
+// console.log(`maximum element ${ans[ans.length-1]}`);
+
+for(let i=0;i<arr.length;i++){
+    sum +=arr[i];
+}
+console.log(sum);
+
+
+
+
+
 
 
 
