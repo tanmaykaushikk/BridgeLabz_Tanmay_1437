@@ -63,3 +63,9 @@
 ### Topics Covered
 - Revision of previous concepts
 - Basic array and string questions.
+- Event Handlers
+- Type Conversions
+- use Strict
+- Comparisons
+- Conditional Branching
+- Interaction :- alert , prompt , confirm
