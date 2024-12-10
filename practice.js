@@ -196,13 +196,23 @@
 
 
 
-// // delete an element from an array
+
+
+
+// const arr = [0,2,3,4,5];
+// const result = [];
+
+// for(let i=0;i<arr.length;i++){
+//     // result[i] = arr[i].toString();
+//     result[i] = arr[i] + "";
+// }
+// console.log(result);
+
+
+
 
 // const arr = [1,2,3,4,5];
-
-// arr.splice(2,1);    // deletes splice(index,how many numbers)
+// arr.splice(3,1);    
 // console.log(arr);
-
-
 
 
