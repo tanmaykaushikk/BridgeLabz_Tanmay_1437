@@ -151,6 +151,31 @@
 // console.log(result);
 
 
+// move all zeroes at the end
+// const arr = [1,2,0,4,5,0,7,6];
+// const result = move(arr);
+// console.log(result);
+
+// function move(arr){
+//     let nonzero = [];
+//     let zero = [];
+
+//     for(num of arr){
+//         if(num === 0){
+//             zero.push(num);
+//         }
+//         else{
+//             nonzero.push(num);
+//         }
+//     }
+
+//     return nonzero.concat(zero);
+// }
+
+
+
+
+
 
 
 
