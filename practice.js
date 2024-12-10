@@ -216,3 +216,12 @@
 // console.log(arr);
 
 
+// 'apple' < 'banana'; 
+// 'abc' > 'ab'; 
+// let str = 'apple';
+// let str1 = 'banana';
+
+// console.log(str < str1);
+
+
+

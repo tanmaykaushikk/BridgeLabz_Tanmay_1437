@@ -66,3 +66,6 @@
 - Event Handlers
 - Type Conversions
 - use Strict
+- Comparisons
+- Conditional Branching
+- Interaction :- alert , prompt , confirm
