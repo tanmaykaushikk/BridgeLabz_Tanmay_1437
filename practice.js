@@ -1,5 +1,4 @@
 // mini and max 
-
 // const arr = [5,1,2,4,8,9];
 // arr.sort();
 // console.log(`minimum : ${arr[0]}`);
@@ -16,6 +15,18 @@
 
 // sort 
 // console.log(arr.sort());
+
+//bubble sort also if built-in function in not needed.
+// for(let i=0;i<arr.length;i++){
+//     for(let j=0;j<arr.length-i-1;j++){
+//         if(arr[j]>arr[j+1]){
+//             let temp = arr[j+1];
+//             arr[j+1] = arr[j];
+//             arr[j] = temp;
+//         }
+//     }
+// }
+// console.log(arr);
 
 
 
@@ -44,7 +55,6 @@
 
 
 // seperate neg and pos
-
 // const arr = [ -1,-2,-3,-4,1,2,3,4];
 // const pos = [];
 // const neg = [];
@@ -119,12 +129,15 @@
 
 
 
-// merge 2 arrays 
 
+
+// merge 2 arrays 
 // const arr1 = [1,2,3,4,5];
 // const arr2 = [5,6,7,8,9];
 
 // console.log(arr1.concat(arr2));
+
+
 
 
 
@@ -151,6 +164,8 @@
 // console.log(result);
 
 
+
+
 // move all zeroes at the end
 // const arr = [1,2,0,4,5,0,7,6];
 // const result = move(arr);
@@ -172,14 +187,21 @@
 //     return nonzero.concat(zero);
 // }
 
+// remove all the occurance from the specific number from an array
+// const arr = [1,2,3,4,5,6,1,2];
+// const k = 1;
+// const g = 2
+// const result = arr.filter(num => num !== k && num !==g);
+// console.log(result);
 
 
 
+// // delete an element from an array
 
+// const arr = [1,2,3,4,5];
 
-
-
-
+// arr.splice(2,1);    // deletes splice(index,how many numbers)
+// console.log(arr);
 
 
 
