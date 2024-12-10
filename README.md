@@ -63,3 +63,6 @@
 ### Topics Covered
 - Revision of previous concepts
 - Basic array and string questions.
+- Event Handlers
+- Type Conversions
+- use Strict
