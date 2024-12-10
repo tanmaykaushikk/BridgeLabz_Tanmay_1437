@@ -56,3 +56,10 @@
 ## 09-12-2024
 ### Topics Covered
 - Recap Of Previous Topics
+
+---
+
+## 10-12-2024
+### Topics Covered
+- Revision of previous concepts
+- Basic array and string questions.
