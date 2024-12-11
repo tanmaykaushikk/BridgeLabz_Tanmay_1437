@@ -1,3 +1,32 @@
+## 27-NOV-2024
+### Topics Covered
+- Why and what is JavaScript? 
+- Why ajax 
+- Client side/Server side 
+- Execution context 
+- Variable and Datatype 
+- let var const 
+- ES6 features 
+- Hoisting
+
+---
+
+## 28-NOV-2024
+### Topics Covered
+- Examples of hoisting with codes 
+- Basics of closures
+
+---
+
+## 29-NOV-2024
+### Topics Covered
+- Intro to Git 
+- Git Commands 
+- How git works in company 
+- General architecture of company in terms of git.
+
+---
+
 ## 02-DEC-2024
 ### Topics Covered
 - Function Expressions
