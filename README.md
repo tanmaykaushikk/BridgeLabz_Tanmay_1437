@@ -56,6 +56,7 @@
 ## 09-12-2024
 ### Topics Covered
 - Recap Of Previous Topics
+- Review Session(Theory)
 
 ---
 
@@ -69,3 +70,12 @@
 - Comparisons
 - Conditional Branching
 - Interaction :- alert , prompt , confirm
+- Review Session(Practical)
+
+---
+
+## 11-12-2024
+### Topics Covered
+- Array Traversal Questions
+- Logical and Nullish coalesing operator  
+- Polyfills and Transpliers
