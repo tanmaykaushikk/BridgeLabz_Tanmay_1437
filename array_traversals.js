@@ -102,9 +102,81 @@
 
 
 
+// calculate 10!
+// function fact(num){
+//     let ans = 1;
+//     for(let i=1;i<=num;i++){
+//         ans *= i;
+//     }
+//     return ans;
+// }
+// console.log(fact(10));
 
 
 
+//sum of even numbers greater than 10 and less than 30
+// let sum = 0;
+// for(let i=11;i<30;i++){
+//     if(i%2 == 0){
+//         sum += i;
+//     }
+// }
+// console.log(sum);
 
+
+
+// Create a function to convert a CSV text to a “bi-dimensional” array
+// const csvText = `Tanmay , Ashish, MAdhav, vishu, aman`;
+// function result(csvText){   
+//     const rows = csvText.trim().split('\n');
+//     const ans = rows.map(rows => rows.split(','));
+//     return ans;
+// }
+// const array2D = console.log(result(csvText)); 
+
+
+
+// Implement the Caesar cypher
+
+// const plainText = "Hello World";
+// const shift = 3;
+
+// const encrypted = caesarcypher(plainText,shift);
+// console.log(`encrypted text : ${encrypted}`);
+
+// function caesarcypher(text,shift,encrypt = true){
+//     if(!encrypt) shift = -shift;
+//     return text.split('').map(char => {
+//         if(char.match([/[a-z]/i])){
+
+//         }
+//     })
+// }
+
+
+// bubble sort
+// const arr = [5,99,21,54,1,34];
+// for(let i=0;i<arr.length-1;i++){
+//     for(let j=0;j<arr.length-i-1;j++){
+//         if(arr[j]>arr[j+1]){
+//             let temp = arr[j];
+//             arr[j] = arr[j+1];
+//             arr[j+1] = temp;
+//         }
+//     }
+// }
+// console.log(arr);
+
+
+//  Create a function that will capitalize the first letter of each word in a text
+// function firstWordToUpperCase(text){
+//     return text.split(' ').map(word =>{
+//         return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+//     }).join(' ');
+// }
+
+// const inputText = "hello my name is tanmay kaushik";
+// const ans = firstWordToUpperCase(inputText);
+// console.log(ans);
 
 
