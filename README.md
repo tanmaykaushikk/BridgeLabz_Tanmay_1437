@@ -106,5 +106,17 @@
 ## 11-12-2024
 ### Topics Covered
 - Array Traversal Questions
+- Assignment Questions
 - Logical and Nullish coalesing operator  
 - Polyfills and Transpliers
+
+
+---
+
+## 12-12-2024
+### Topics Covered
+- Rest and Spread Operators
+- Immediately Invoked Function Expression (IIFE)
+- Named Funciton Expression
+- The new Function Constructor
+- Assignment Questions
