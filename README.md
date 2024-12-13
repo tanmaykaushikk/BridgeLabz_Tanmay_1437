@@ -120,3 +120,12 @@
 - Named Funciton Expression
 - The new Function Constructor
 - Assignment Questions
+
+--- 
+
+## 13-12-2024
+### Topics Covered
+- Assignment of Dsa Completed of 53 Questions
+- Scheduling 
+- Decorators
+- Forwarding
