@@ -129,3 +129,12 @@
 - Scheduling 
 - Decorators
 - Forwarding
+
+
+---
+
+## 14-12-2024
+### Topics Covered
+- Stack Implementation
+- Queue Implementation
+- Linked List Implementation
