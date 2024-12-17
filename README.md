@@ -133,7 +133,7 @@
 
 ---
 
-## 14-12-2024
+## 16-12-2024
 ### Topics Covered
 - Stack Implementation
 - Queue Implementation
