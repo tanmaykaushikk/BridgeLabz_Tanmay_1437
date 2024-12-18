@@ -145,4 +145,13 @@
 ### Topics Covered
 - Infix to Postfix Conversion
 - Postfix to Infix Conversion
-- Review Session
+- Review Session(Code)
+
+---
+
+## 18-12-2024
+### Topics Covered
+- HashTable Implementation
+- Tree Implementation
+- Stack Practice Problem 
+- Review Session(Theory)
