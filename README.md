@@ -155,3 +155,9 @@
 - Tree Implementation
 - Stack Practice Problem 
 - Review Session(Theory)
+
+## 19-12-2024
+### Topics Covered
+- Linked List Questions
+- Doubly Linked List Implementation
+- Doubly Linked List Questions
