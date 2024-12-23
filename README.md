@@ -156,12 +156,26 @@
 - Stack Practice Problem 
 - Review Session(Theory)
 
+--- 
+
+
 ## 19-12-2024
 ### Topics Covered
 - Linked List Questions
 - Doubly Linked List Implementation
 - Doubly Linked List Questions
 
+--- 
+
+
 ## 20-12-2024
 ### Topics Covered 
 - Practice Data Structure and Algorithm Questions
+
+---
+
+## 23-12-2024
+### Topics Covered
+- Tree Implementation Revise
+- Practice Questions on Tree
+
