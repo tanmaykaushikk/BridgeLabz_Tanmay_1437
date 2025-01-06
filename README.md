@@ -179,3 +179,9 @@
 - Tree Implementation Revise
 - Practice Questions on Tree
 
+---
+
+## 06-01-2025
+### Topics Covered
+- DSA Practice Problems
+- Review Session
