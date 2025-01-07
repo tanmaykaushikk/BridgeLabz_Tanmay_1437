@@ -1,25 +1,16 @@
-function countDistinctSubsequences(string) {
-    const MOD = 1000000007; // To prevent integer overflow
-    const n = string.length;
-    const dp = new Array(n + 1).fill(0);
-    dp[0] = 1; // base case with an empty string
-    const lastOccurrence = {};
-
-    for (let i = 1; i <= n; i++) {
-        dp[i] = (2 * dp[i - 1]) % MOD;
-
-        const char = string[i - 1];
-        if (lastOccurrence[char] !== undefined) {
-            dp[i] = (dp[i] - dp[lastOccurrence[char] - 1] + MOD) % MOD;
-        }
-
-        lastOccurrence[char] = i;
+function countDistinctSubsequences(str) {
+  let count = 0;
+  for (let i = 0; i < str.length; i++) {
+    let seen = new Set();
+    for (let j = i; j < str.length; j++) {
+      if (!seen.has(str[j])) {
+        seen.add(str[j]);
+        count++;
+      }
     }
-
-    return dp[n];
+  }
+  return count;
 }
 
-
-const string = "abcbac";
-const result = countDistinctSubsequences(string);
-console.log("Number of Distinct Subsequences:", result);
+const str = "abcbac";
+console.log(countDistinctSubsequences(str));
