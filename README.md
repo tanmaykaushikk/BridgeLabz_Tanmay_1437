@@ -185,3 +185,32 @@
 ### Topics Covered
 - DSA Practice Problems
 - Review Session
+
+---
+
+
+## 07-01-2025
+### Topics Covered
+- Review Session Code
+- Advance JavaScript Concepts 
+  - Garbage Collection
+  - Object Methods
+  - Optional Chaining
+  - Property Flag and Decriptors
+  - Prototypes
+  - Native Prototypes
+  - Object without prototypes
+  - Extending builtin Classes
+  - Promises
+  - Promise Chaining
+  - Promise API
+  - Error Handling with Promises
+  - Custom Errors and Extending Error
+  - Promisification
+  - Curring
+  - Proxy Functions
+  - Symbol Usage
+  - Reflect API
+  - Memoization Pattern
+
+---
