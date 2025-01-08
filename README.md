@@ -214,3 +214,9 @@
   - Memoization Pattern
 
 ---
+
+## 08-01-2025
+## Topics Covered
+- Basics of Html and Css
+- Hover Shapes Mini Project(HTML and CSS)
+- Cards Mini Project
