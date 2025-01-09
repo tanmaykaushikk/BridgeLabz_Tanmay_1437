@@ -220,3 +220,14 @@
 - Basics of Html and Css
 - Hover Shapes Mini Project(HTML and CSS)
 - Cards Mini Project
+
+---
+
+## 09-01-2025
+### Topics Covered
+- Covered Advanced JavaScript Concepts with Implementation
+  - Objects
+  - Classes
+  - Object references and copying
+  - Garbage Collection
+  - Object Methods
