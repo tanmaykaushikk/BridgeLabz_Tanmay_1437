@@ -231,3 +231,9 @@
   - Object references and copying
   - Garbage Collection
   - Object Methods
+
+---
+
+## 10-01-2025
+### Topics Covered
+- Created a Website Landing Page using HTML and CSS.
